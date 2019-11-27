@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ylv.miviaje",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "gateway",
+    "baseName": "miViaje",
+    "packageName": "com.ylv.miviaje",
+    "packageFolder": "com/ylv/miviaje",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGQ4NDIyOTcyYmY3YzY3OTZlNzM1NTYxZGY0MTU4ZGY3NDdmOWU4NzVmODI1YjAyOGE2NzllZmUzNDMyZTA0M2VkZjg0YjAzMWE1ZTA0ZWRiOGE5ODRkYTFiNDcxMmYxOThjODMxMTZlZDA3MWEwYWU1MDcyNmYxMjRlMjczYjM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "blueprints": []
+  }
+}
